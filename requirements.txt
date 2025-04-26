@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-huggingface
+langchain-community
+python-dotenv
+validators
+unstructured
+yt_dlp
+
